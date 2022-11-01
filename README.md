@@ -1,6 +1,6 @@
 ## Community Curriculum
 
-#Learing outcomes
+# Learning outcomes
 
 By the end of this course you should be able to: 
 

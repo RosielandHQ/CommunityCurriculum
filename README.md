@@ -127,6 +127,8 @@ The work you need to do to help you build relationships, do research and make in
 
 ### Create growth and sustainability
 
+##### Growth 
+
 * Community Flywheels
 * Community is not marketing
 * Grow wide
@@ -138,6 +140,8 @@ The work you need to do to help you build relationships, do research and make in
 * Processes
 * Online vs IRL
 * Outputs
+
+#####  Sustainability
 
 * Communities can make money
 * Build for sustainability

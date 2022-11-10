@@ -35,87 +35,95 @@ The work you need to do to help you build relationships, do research and make in
 
 ### Design a minimum viable community
 
-- Processes & Systems
-- CommunityOps
-- Tools & Tech
-- Structure
-- Plans
+##### Processes & Systems
 
-* Striving for the intangibles
-- trust
-- care
-- connection
-- culture
-- belonging
-- relationship building
+* CommunityOps
+* Tools & Tech
+* Structure
+* Plans
 
-* Community Journey
-- community personas
-- entering / onboarding
-- gathering
-- goals
-- exiting
+##### Striving for the intangibles
 
-* Community Activities
-- rituals
-- conversations
-- inputs
-- experiments / MVCs
-- feedback
-- events
-- curating
-- sponsoring
-- speak
-- host
-- attend
-- evangelise
-- volunteer
-- practice
-- play
-- learn & teach
+* trust
+* care
+* connection
+* culture
+* belonging
+* relationship building
 
-* Leadership
-- vision
-- strategy
-- brand
-- consistency
-- frameworks
-- systems
-- processes
-- mental models
-- business models
-- sustainability
+##### Community Journey
 
-* Culture
-- what is good enough?
-- what are you striving for?
-- define values
-- create a manifesto
-- how people get involved / hired / volunteer
-- protecting against burnout
-- intimacy
-- delight
-- power dynamics
-- users as citizens with rights and responsibility, not as users
+* community personas
+* entering / onboarding
+* gathering
+* goals
+* exiting
 
-* Business Models
-- licensing
-- indie, VC, not-for-profit
-- partnerships / sponsorship
-- open access
+##### Community Activities
 
-* What defines us
-- culture
-- creativity
-- taking action
-- participation
-- language
-- imagination
-- embracing the chaos
-- seeking opportunities
-- nurturing organically
-- safety and moderation
-- seeking diversity
+* rituals
+* conversations
+* inputs
+* experiments / MVCs
+* feedback
+* events
+* curating
+* sponsoring
+* speak
+* host
+* attend
+* evangelise
+* volunteer
+* practice
+* play
+* learn & teach
+
+##### Leadership
+
+* vision
+* strategy
+* brand
+* consistency
+* frameworks
+* systems
+* processes
+* mental models
+* business models
+* sustainability
+
+##### Culture
+
+* what is good enough?
+* what are you striving for?
+* define values
+* create a manifesto
+* how people get involved / hired / volunteer
+* protecting against burnout
+* intimacy
+* delight
+* power dynamics
+* users as citizens with rights and responsibility, not as users
+
+##### Business Models
+
+* licensing
+* indie, VC, not-for-profit
+* partnerships / sponsorship
+* open access
+
+##### What defines us
+
+* culture
+* creativity
+* taking action
+* participation
+* language
+* imagination
+* embracing the chaos
+* seeking opportunities
+* nurturing organically
+* safety and moderation
+* seeking diversity
 
 ### Create growth and sustainability
 

@@ -33,9 +33,9 @@ The work you need to do to help you build relationships, do research and make in
 * Understand your ecosystem
 * Opportunity logging
 
-### Design a minimum viable community, 
+### Design a minimum viable community
 
-* Processes & Systems
+- Processes & Systems
 - CommunityOps
 - Tools & Tech
 - Structure
